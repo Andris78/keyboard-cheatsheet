@@ -1,6 +1,3 @@
-Single quote
-Shift 1 '
-Double quote
-Shift 2 "
-Backtick
-Alt Gr 7 `
+-Single quote: ' shift1
+-Double quote: " shift2
+Backtick: ` alt gr7
